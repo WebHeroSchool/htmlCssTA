@@ -1,3 +1,11 @@
+.bgcCoral{
+  background-color: coral;
+  border-color: coral;  /*для подсветки горизонтальной черты*/
+}
+.bgcCadetblue{
+  background-color: cadetblue;
+}
+
 .inline {
   background-color: cadetblue;
   display: inline;
@@ -11,4 +19,7 @@
 .inline-block{
   background-color: crimson;
   display: inline-block;
+}
+.padding{
+  padding:16px;
 }
