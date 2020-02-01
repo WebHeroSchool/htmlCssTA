@@ -1,0 +1,14 @@
+.inline {
+  background-color: cadetblue;
+  display: inline;
+}
+
+.block {
+  background-color: coral;
+  display: block;
+}
+
+.inline-block{
+  background-color: crimson;
+  display: inline-block;
+}
